@@ -1,0 +1,19 @@
+repositories {
+    mavenLocal()
+    jcenter()
+}
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+dependencies {
+    implementation 'net.serenity-bdd:serenity-core:2.0.33'
+    implementation 'net.serenity-bdd:serenity-junit:2.0.33'
+    implementation 'net.serenity-bdd:serenity-screenplay:2.0.33'
+    implementation 'net.serenity-bdd:serenity-screenplay-webdriver:2.0.33'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'net.serenity-bdd:serenity-cucumber:1.9.23'
+    testImplementation 'org.assertj:assertj-core:3.11.1'
+    testImplementation 'org.slf4j:slf4j-simple:1.7.25'
+}
+gradle.startParameter.continueOnFailure = true

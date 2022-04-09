@@ -1,0 +1,18 @@
+co/com/clothesstore/certificacion/questions/ValidarArticuloEliminado.java
+ co.com.clothesstore.certificacion.questions.ValidarArticuloEliminado
+co/com/clothesstore/certificacion/utils/MiDriver.java
+ co.com.clothesstore.certificacion.utils.MiDriver
+co/com/clothesstore/certificacion/tasks/AgregarVariosArticulos.java
+ co.com.clothesstore.certificacion.tasks.AgregarVariosArticulos
+co/com/clothesstore/certificacion/tasks/AgregarArticulo.java
+ co.com.clothesstore.certificacion.tasks.AgregarArticulo
+co/com/clothesstore/certificacion/questions/ValidarArticuloAgregado.java
+ co.com.clothesstore.certificacion.questions.ValidarArticuloAgregado
+co/com/clothesstore/certificacion/userinterfaces/ClothesStorePage.java
+ co.com.clothesstore.certificacion.userinterfaces.ClothesStorePage
+co/com/clothesstore/certificacion/tasks/EliminarArticulo.java
+ co.com.clothesstore.certificacion.tasks.EliminarArticulo
+co/com/clothesstore/certificacion/questions/ValidarTotalAPagar.java
+ co.com.clothesstore.certificacion.questions.ValidarTotalAPagar
+co/com/clothesstore/certificacion/tasks/SumarTotalAPagar.java
+ co.com.clothesstore.certificacion.tasks.SumarTotalAPagar
