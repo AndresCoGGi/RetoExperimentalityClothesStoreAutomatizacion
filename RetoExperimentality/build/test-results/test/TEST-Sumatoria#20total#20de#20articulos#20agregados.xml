@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Sumatoria total de articulos agregados" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-09T20:44:02" hostname="PCSANTI" time="13.182">
+<testsuite name="Sumatoria total de articulos agregados" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-09T21:18:13" hostname="PCSANTI" time="19.471">
   <properties/>
-  <testcase name="Validar la sumatoria total de los articulos agregados" classname="Sumatoria total de articulos agregados" time="13.182"/>
+  <testcase name="Validar la sumatoria total de los articulos agregados" classname="Sumatoria total de articulos agregados" time="19.471"/>
   <system-out><![CDATA[
-
 
 
 
@@ -40,12 +39,12 @@
 
 ]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Dado que el usuario este en la pagina principal de CLOTHESSTORE
-Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 44223
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 24872
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1649537043.272][WARNING]: This version of ChromeDriver has not been tested with Chrome version 100.
-abr 09, 2022 3:44:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1649539095.017][WARNING]: This version of ChromeDriver has not been tested with Chrome version 100.
+abr 09, 2022 4:18:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Cuando el agrega varios productos de diferentes categorias
@@ -82,7 +81,7 @@ INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Entonces el visualizara el total a pagar correctamente
-[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Then {0} validar total a pagar de los productos agregados al carrito should be '123650'
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Then {0} validar total a pagar de los productos agregados al carrito should be '142555'
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 

@@ -1,12 +1,12 @@
-co/com/clothesstore/certificacion/runners/AgregarArticuloRunner.java
- co.com.clothesstore.certificacion.runners.AgregarArticuloRunner
-co/com/clothesstore/certificacion/runners/EliminarArticuloRunner.java
- co.com.clothesstore.certificacion.runners.EliminarArticuloRunner
-co/com/clothesstore/certificacion/runners/SumarTotalPagarRunner.java
- co.com.clothesstore.certificacion.runners.SumarTotalPagarRunner
 co/com/clothesstore/certificacion/stepdefinitions/AgregarArticuloStepDefinitions.java
  co.com.clothesstore.certificacion.stepdefinitions.AgregarArticuloStepDefinitions
+co/com/clothesstore/certificacion/runners/EliminarArticuloRunner.java
+ co.com.clothesstore.certificacion.runners.EliminarArticuloRunner
 co/com/clothesstore/certificacion/stepdefinitions/EliminarArticuloStepDefinitions.java
  co.com.clothesstore.certificacion.stepdefinitions.EliminarArticuloStepDefinitions
+co/com/clothesstore/certificacion/runners/AgregarArticuloRunner.java
+ co.com.clothesstore.certificacion.runners.AgregarArticuloRunner
+co/com/clothesstore/certificacion/runners/SumarTotalPagarRunner.java
+ co.com.clothesstore.certificacion.runners.SumarTotalPagarRunner
 co/com/clothesstore/certificacion/stepdefinitions/SumarTotalPagarStepDefinitions.java
  co.com.clothesstore.certificacion.stepdefinitions.SumarTotalPagarStepDefinitions
